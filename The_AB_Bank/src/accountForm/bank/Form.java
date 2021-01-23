@@ -236,11 +236,8 @@ public class Form extends JFrame {
 		lblNewLabel_5.setHorizontalAlignment(SwingConstants.CENTER);
 		lblNewLabel_5.setFont(new Font("Verdana", Font.BOLD, 23));
 		lblNewLabel_5.setBounds(696, 0, 32, 29);
-		contentPane.add(lblNewLabel_5);
-		
-		
+		contentPane.add(lblNewLabel_5);	
 		setUndecorated(true);
-		
-		
+	
 	}
 }
